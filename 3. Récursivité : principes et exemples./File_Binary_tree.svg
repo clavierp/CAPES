@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>File:Binary tree.svg — Wikimedia Commons</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"File:Binary_tree.svg","wgTitle":"Binary tree.svg","wgCurRevisionId":108399563,"wgRevisionId":108399563,"wgArticleId":488419,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Derivative versions","Self-published work","PD-self","Binary trees"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"File:Binary_tree.svg","wgRelevantArticleId":488419,"wgRequestId":"WoQx7gpAAEMAAGfT2RAAAACT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRestrictionUpload":[],"wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgULSCurrentAutonym":"français","wgNoticeProject":"commons","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.Long-Image-Names-in-Categories":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","filepage":"ready","mediawiki.action.view.filepage":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.metadata","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Slideshow","ext.gadget.ZoomViewer","ext.gadget.CollapsibleTemplates","ext.gadget.fastcci","ext.gadget.UploadWizard","ext.gadget.Stockphoto","ext.gadget.WatchlistNotice","ext.gadget.AjaxQuickDelete","ext.gadget.WikiMiniAtlas","ext.gadget.LanguageSelect","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=fr&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cfilepage%7Cmediawiki.action.view.filepage%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=fr&amp;modules=ext.gadget.Long-Image-Names-in-Categories&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=fr&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=File:Binary_tree.svg&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=File:Binary_tree.svg&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/commons.png"/>
+<link rel="shortcut icon" href="/static/favicon/commons.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikimedia Commons"/>
+<link rel="EditURI" type="application/rsd+xml" href="//commons.wikimedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikimedia Commons" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:Binary_tree.svg"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject page-File_Binary_tree_svg rootpage-File_Binary_tree_svg skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">File:Binary tree.svg</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">Une page de Wikimedia Commons, la médiathèque libre.</div>				<div id="contentSub" lang="fr" dir="ltr"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text"><ul id="filetoc"><li><a href="#file">Fichier</a></li>
+<li><a href="#filehistory">Historique du fichier</a></li>
+<li><a href="#filelinks">Utilisations locales du fichier</a></li>
+<li><a href="#globalusage">Utilisations du fichier sur d’autres wikis</a></li>
+<li><a href="#metadata">Métadonnées</a></li></ul><div class="fullImageLink" id="file"><a href="https://upload.wikimedia.org/wikipedia/commons/f/f7/Binary_tree.svg"><img alt="File:Binary tree.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/300px-Binary_tree.svg.png" width="300" height="250" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/450px-Binary_tree.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/600px-Binary_tree.svg.png 2x" data-file-width="300" data-file-height="250" /></a><div class="mw-filepage-resolutioninfo">Taille de cet aperçu PNG de ce fichier SVG&#160;: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/300px-Binary_tree.svg.png" class="mw-thumbnail-link">300 × 250 pixels</a>. <span class="mw-filepage-other-resolutions">Autres résolutions&#160;: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/288px-Binary_tree.svg.png" class="mw-thumbnail-link">288 × 240 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/576px-Binary_tree.svg.png" class="mw-thumbnail-link">576 × 480 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/720px-Binary_tree.svg.png" class="mw-thumbnail-link">720 × 600 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/922px-Binary_tree.svg.png" class="mw-thumbnail-link">922 × 768 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/1229px-Binary_tree.svg.png" class="mw-thumbnail-link">1 229 × 1 024 pixels</a>.</span></div></div>
+<div class="fullMedia"><a href="https://upload.wikimedia.org/wikipedia/commons/f/f7/Binary_tree.svg" class="internal" title="Binary tree.svg">Fichier d’origine</a> &#8206;<span class="fileInfo">(Fichier SVG, résolution de 300 × 250 pixels, taille&#160;: 17 Kio)</span>
+</div>
+<div id="mw-imagepage-content" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File:Binary_tree.svg&amp;action=edit&amp;section=1" title="Modifier la section : Description">modifier</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hproduct commons-file-information-table">
+<table class="fileinfotpl-type-information toccolours vevent mw-content-ltr" style="width: 100%; direction: ltr;" cellpadding="4">
+<tr style="vertical-align: top">
+<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="fr" xml:lang="fr">Description<span class="summary fn" style="display:none">Binary tree.svg</span></td>
+<td class="description">
+<div class="description mw-content-ltr en" dir="ltr" lang="en" style="" xml:lang="en"><span class="language en" title=""><b>English:</b></span> A binary tree image made in Adobe Illustrator based on the original source of <a href="https://en.wikipedia.org/wiki/Image:Binary_tree.png" class="extiw" title="en:Image:Binary tree.png">en:Image:Binary tree.png</a>, to replace that image. This is much like <a href="/wiki/File:Binary_search_tree.svg" title="File:Binary search tree.svg">Image:Binary search tree.svg</a>, but with the elements shuffled to avoid insinuating that binary trees have to be in order.</div>
+<p>árvore parcialmente binaria <i>as written by prince</i></p>
+</td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_date" class="fileinfo-paramfield" lang="fr" xml:lang="fr">Date</td>
+<td lang="fr" xml:lang="fr"></td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="fr" xml:lang="fr">Source</td>
+<td><span class="int-own-work" lang="fr" xml:lang="fr">Travail personnel</span></td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="fr" xml:lang="fr">Auteur</td>
+<td><a href="/wiki/User:Dcoetzee" title="User:Dcoetzee">Derrick Coetzee</a></td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_ver" class="fileinfo-paramfield" lang="fr" xml:lang="fr">Autres versions</td>
+<td>
+<p>Œuvres dérivées de ce fichier&#160;:&#160;<a href="/wiki/File:Binary_tree_traversion.svg" title="File:Binary tree traversion.svg">Binary tree traversion.svg</a></p>
+</td>
+</tr>
+</table>
+</div>
+<h2><span id="Conditions_d.27utilisation"></span><span class="mw-headline" id="Conditions_d'utilisation">Conditions d'utilisation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File:Binary_tree.svg&amp;action=edit&amp;section=2" title="Modifier la section : Conditions d&#039;utilisation">modifier</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="licensetpl" style="display:none">
+<tr>
+<td><span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span></td>
+</tr>
+</table>
+<table style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;" class="layouttemplate mw-content-ltr" lang="fr" xml:lang="fr">
+<tr>
+<td><img alt="Public domain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png" title="Public domain" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></td>
+<td>Moi, propriétaire du copyright de cette œuvre, la place dans le <b><a href="https://en.wikipedia.org/wiki/fr:Domaine_public_(propri%C3%A9t%C3%A9_intellectuelle)" class="extiw" title="w:fr:Domaine public (propriété intellectuelle)">domaine public</a></b>. Ceci s'applique dans le monde entier.<br />
+<small>Dans certains pays, ceci peut ne pas être possible&#160;; dans ce cas&#160;:</small><br />
+<i>J'accorde à toute personne le droit d'utiliser cette œuvre <b>dans n'importe quel but</b>, sans aucune condition, sauf celles requises par la loi.</i>
+<p><span class="licensetpl_short" style="display:none;">Public domain</span><span class="licensetpl_long" style="display:none;">Public domain</span><span class="licensetpl_link_req" style="display:none;">false</span><span class="licensetpl_attr_req" style="display:none;">false</span></p>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1323
+Cached time: 20180206060551
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.064 seconds
+Real time usage: 0.105 seconds
+Preprocessor visited node count: 824/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 7783/2097152 bytes
+Template argument size: 3510/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Lua time usage: 0.012/10.000 seconds
+Lua memory usage: 876 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   84.641      1 -total
+ 91.46%   77.416      1 Template:Information
+ 31.38%   26.563      1 Template:DerivativeVersions
+ 22.44%   18.996      1 Template:ISOdate
+ 13.55%   11.465      1 Template:Autotranslate
+ 11.40%    9.648      1 Template:F
+  8.22%    6.956      1 Template:PD-self
+  5.99%    5.067      1 Template:F/name
+  5.21%    4.411      1 Template:Years_since
+  4.91%    4.158      1 Template:En
+-->
+</div>
+<!-- Saved in parser cache with key commonswiki:pcache:idhash:488419-0!userlang=fr and timestamp 20180206060551 and revision id 108399563
+ -->
+</div><h2 id="filehistory">Historique du fichier</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Cliquer sur une date et heure pour voir le fichier tel qu'il était à ce moment-là.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Date et heure</th><th>Vignette</th><th>Dimensions</th><th>Utilisateur</th><th>Commentaire</th></tr>
+<tr><td>actuel</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="https://upload.wikimedia.org/wikipedia/commons/f/f7/Binary_tree.svg">16 février 2011 à 18:57</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/f/f7/Binary_tree.svg"><img alt="Vignette pour la version du 16 février 2011 à 18:57" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/120px-Binary_tree.svg.png" width="120" height="100" data-file-width="300" data-file-height="250" /></a></td><td>300 × 250 <span style="white-space: nowrap;">(17 Kio)</span></td><td><a href="/wiki/User:Sertion" class="mw-userlink" title="User:Sertion"><bdi>Sertion</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Sertion" class="mw-usertoollinks-talk" title="User talk:Sertion">discussion</a> | <a href="/wiki/Special:Contributions/Sertion" class="mw-usertoollinks-contribs" title="Special:Contributions/Sertion">contributions</a>)</span></span></td><td dir="ltr">.</td></tr>
+<tr><td></td><td  style='white-space: nowrap;'><a href="https://upload.wikimedia.org/wikipedia/commons/archive/f/f7/20110216185700%21Binary_tree.svg">16 janvier 2009 à 23:23</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/archive/f/f7/20110216185700%21Binary_tree.svg"><img alt="Vignette pour la version du 16 janvier 2009 à 23:23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/f/f7/20110216185700%21Binary_tree.svg/120px-Binary_tree.svg.png" width="120" height="100" data-file-width="300" data-file-height="250" /></a></td><td>300 × 250 <span style="white-space: nowrap;">(26 Kio)</span></td><td><a href="/wiki/User:Inductiveload" class="mw-userlink" title="User:Inductiveload"><bdi>Inductiveload</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Inductiveload" class="mw-usertoollinks-talk" title="User talk:Inductiveload">discussion</a> | <a href="/wiki/Special:Contributions/Inductiveload" class="mw-usertoollinks-contribs" title="Special:Contributions/Inductiveload">contributions</a>)</span></span></td><td dir="ltr">Fix unsupported font (changed to DejaVu Sans), made a round size (300x250), fixed arrows that were not always touching and had odd white copies behind. </td></tr>
+<tr><td></td><td  style='white-space: nowrap;'><a href="https://upload.wikimedia.org/wikipedia/commons/archive/f/f7/20090116232339%21Binary_tree.svg">31 décembre 2005 à 21:30</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/archive/f/f7/20090116232339%21Binary_tree.svg"><img alt="Vignette pour la version du 31 décembre 2005 à 21:30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/f/f7/20090116232339%21Binary_tree.svg/120px-Binary_tree.svg.png" width="120" height="105" data-file-width="289" data-file-height="253" /></a></td><td>289 × 253 <span style="white-space: nowrap;">(10 Kio)</span></td><td><a href="/wiki/User:Dcoetzee" class="mw-userlink" title="User:Dcoetzee"><bdi>Dcoetzee</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Dcoetzee" class="mw-usertoollinks-talk" title="User talk:Dcoetzee">discussion</a> | <a href="/wiki/Special:Contributions/Dcoetzee" class="mw-usertoollinks-contribs" title="Special:Contributions/Dcoetzee">contributions</a>)</span></span></td><td dir="ltr">Fix edges</td></tr>
+<tr><td></td><td  style='white-space: nowrap;'><a href="https://upload.wikimedia.org/wikipedia/commons/archive/f/f7/20051231213046%21Binary_tree.svg">31 décembre 2005 à 21:28</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/archive/f/f7/20051231213046%21Binary_tree.svg"><img alt="Vignette pour la version du 31 décembre 2005 à 21:28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/f/f7/20051231213046%21Binary_tree.svg/120px-Binary_tree.svg.png" width="120" height="105" data-file-width="284" data-file-height="249" /></a></td><td>284 × 249 <span style="white-space: nowrap;">(10 Kio)</span></td><td><a href="/wiki/User:Dcoetzee" class="mw-userlink" title="User:Dcoetzee"><bdi>Dcoetzee</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Dcoetzee" class="mw-usertoollinks-talk" title="User talk:Dcoetzee">discussion</a> | <a href="/wiki/Special:Contributions/Dcoetzee" class="mw-usertoollinks-contribs" title="Special:Contributions/Dcoetzee">contributions</a>)</span></span></td><td dir="ltr">A binary tree image made by <a href="/wiki/User:Dcoetzee" title="User:Dcoetzee">Derrick Coetzee</a> in Adobe Illustrator based on the original source of <a href="https://en.wikipedia.org/wiki/Image:Binary_tree.png" class="extiw" title="en:Image:Binary tree.png">en:Image:Binary_tree.png</a>, to replace that image. This is much like <a href="/wiki/File:Binary_search_tree.svg" title="File:Binary search tree.svg">Image:Binary_search_tree.svg</a>, but with the elements shuffled to</td></tr>
+</table>
+
+</div>
+<ul>
+<li id="mw-imagepage-upload-disallowed">Vous ne pouvez pas remplacer ce fichier.</li>
+</ul>
+<h2 id="filelinks">Utilisations locales du fichier</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<p>La page suivante utilise ce fichier&#160;:
+</p><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Dcoetzee/Original_contributions" title="User:Dcoetzee/Original contributions">User:Dcoetzee/Original contributions</a></li>
+</ul>
+</div>
+<h2 id="globalusage">Utilisations du fichier sur d’autres wikis</h2>
+<div id="mw-imagepage-section-globalusage"><p>Les autres wikis suivants utilisent cette image&#160;:
+</p><ul>
+<li class='mw-gu-onwiki-ar_wikipedia_org'>Utilisation sur ar.wikipedia.org
+<ul>	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%86%D9%8A%D8%A9_%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA">بنية بيانات</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%B4%D8%AC%D8%B1%D8%A9_(%D8%A8%D9%86%D9%8A%D8%A9_%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA)">شجرة (بنية بيانات)</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%B4%D8%AC%D8%B1%D8%A9_%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9">شجرة ثنائية</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-az_wikipedia_org'>Utilisation sur az.wikipedia.org
+<ul>	<li><a class="external" href="//az.wikipedia.org/wiki/%C4%B0kilik_a%C4%9Fac">İkilik ağac</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-bg_wikipedia_org'>Utilisation sur bg.wikipedia.org
+<ul>	<li><a class="external" href="//bg.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D0%B8%D1%87%D0%BD%D0%BE_%D0%B4%D1%8A%D1%80%D0%B2%D0%BE">Двоично дърво</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-bn_wikipedia_org'>Utilisation sur bn.wikipedia.org
+<ul>	<li><a class="external" href="//bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4_%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A6%A0%E0%A6%A8">উপাত্ত সংগঠন</a></li>
+	<li><a class="external" href="//bn.wikipedia.org/wiki/%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF_(%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4_%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A6%A0%E0%A6%A8)">ট্রি (উপাত্ত সংগঠন)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-bn_wikibooks_org'>Utilisation sur bn.wikibooks.org
+<ul>	<li><a class="external" href="//bn.wikibooks.org/wiki/%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE_%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A6%9A%E0%A6%BE%E0%A6%B0_%E0%A6%8F%E0%A6%AC%E0%A6%82_%E0%A6%86%E0%A6%B2%E0%A6%97%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%BF%E0%A6%AE">ডাটা স্ট্রাকচার এবং আলগোরিদিম</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ca_wikipedia_org'>Utilisation sur ca.wikipedia.org
+<ul>	<li><a class="external" href="//ca.wikipedia.org/wiki/Arbre_(estructura_de_dades)">Arbre (estructura de dades)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-cs_wikipedia_org'>Utilisation sur cs.wikipedia.org
+<ul>	<li><a class="external" href="//cs.wikipedia.org/wiki/Strom_(datov%C3%A1_struktura)">Strom (datová struktura)</a></li>
+	<li><a class="external" href="//cs.wikipedia.org/wiki/Bin%C3%A1rn%C3%AD_strom">Binární strom</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-de_wikipedia_org'>Utilisation sur de.wikipedia.org
+<ul>	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:WiseWoman">Benutzer:WiseWoman</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Konqi">Benutzer:Konqi</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Husky22">Benutzer:Husky22</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Thornard">Benutzer:Thornard</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Eff0ktiv">Benutzer:Eff0ktiv</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:User71">Benutzer:User71</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Twisteeer">Benutzer:Twisteeer</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Grixlkraxl/Bahnhof">Benutzer:Grixlkraxl/Bahnhof</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Richard_Maier">Benutzer:Richard Maier</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Conaly">Benutzer:Conaly</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:ATHeinrich">Benutzer:ATHeinrich</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:ATHeinrich/Vorlage:Informatiker">Benutzer:ATHeinrich/Vorlage:Informatiker</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Hippopotamus777/Users">Benutzer:Hippopotamus777/Users</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Marco74">Benutzer:Marco74</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Hawkwind">Benutzer:Hawkwind</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:CChris">Benutzer:CChris</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Jaypeevoss">Benutzer:Jaypeevoss</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Okj579">Benutzer:Okj579</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Hpwn">Benutzer:Hpwn</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Wojogu">Benutzer:Wojogu</a></li>
+	<li><a class="external" href="//de.wikipedia.org/wiki/Benutzer:Engelskrieger">Benutzer:Engelskrieger</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-en_wikipedia_org'>Utilisation sur en.wikipedia.org
+<ul>	<li><a class="external" href="//en.wikipedia.org/wiki/Binary_tree">Binary tree</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/Tree_(data_structure)">Tree (data structure)</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/Phonetic_algorithm">Phonetic algorithm</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/Data_model">Data model</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/Talk:Binary_tree">Talk:Binary tree</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/Exponential_tree">Exponential tree</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/Unicode_collation_algorithm">Unicode collation algorithm</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/2%E2%80%933_heap">2–3 heap</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/Astronomical_algorithm">Astronomical algorithm</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/Node_(computer_science)">Node (computer science)</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/Chung_Kwei_(algorithm)">Chung Kwei (algorithm)</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/R%2B_tree">R+ tree</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/Logical_clock">Logical clock</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/AF-heap">AF-heap</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/X-tree">X-tree</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/False_nearest_neighbor_algorithm">False nearest neighbor algorithm</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/Algorithm_BSTW">Algorithm BSTW</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/Cartesian_Perceptual_Compression">Cartesian Perceptual Compression</a></li>
+</ul></li>
+</ul>
+<p>Voir <a href="/wiki/Special:GlobalUsage/Binary_tree.svg" title="Special:GlobalUsage/Binary tree.svg">davantage sur l’utilisation globale</a> de ce fichier.
+</p></div><h2 id="metadata">Métadonnées</h2>
+<div class="mw-imagepage-section-metadata">Ce fichier contient des informations supplémentaires, probablement ajoutées par l'appareil photo numérique ou le numériseur utilisé pour le créer. 
+Si le fichier a été modifié depuis son état original, certains détails peuvent ne pas refléter entièrement l'image modifiée.<table id="mw_metadata" class="mw_metadata collapsed">
+<tr class="exif-imagewidth mw-metadata-collapsible"><th>Largeur</th><td>300</td></tr><tr class="exif-imagelength mw-metadata-collapsible"><th>Hauteur</th><td>250</td></tr></table>
+</div>
+<noscript><img src="//commons.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Récupérée de «&#160;<a dir="ltr" href="https://commons.wikimedia.org/w/index.php?title=File:Binary_tree.svg&amp;oldid=108399563">https://commons.wikimedia.org/w/index.php?title=File:Binary_tree.svg&amp;oldid=108399563</a>&#160;»					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Catégorie</a> : <ul><li><a href="/wiki/Category:Binary_trees" title="Category:Binary trees">Binary trees</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-user-shown">Catégories cachées : <ul><li><a href="/wiki/Category:Derivative_versions" title="Category:Derivative versions">Derivative versions</a></li><li><a href="/wiki/Category:Self-published_work" title="Category:Self-published work">Self-published work</a></li><li><a href="/wiki/Category:PD-self" title="Category:PD-self">PD-self</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul lang="fr" dir="ltr">
+							<li id="pt-uls" class="active"><a href="#" class="uls-trigger">français</a></li><li id="pt-anonuserpage">Non connecté</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=File%3ABinary+tree.svg&amp;returntoquery=uselang%3Dfr" title="Nous vous encourageons à créer un compte utilisateur et vous connecter; ce n’est cependant pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File%3ABinary+tree.svg&amp;returntoquery=uselang%3Dfr" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul lang="fr" dir="ltr">
+							<li id="ca-nstab-image" class="selected"><span><a href="/wiki/File:Binary_tree.svg" title="Voir la page du fichier [c]" accesskey="c">Fichier</a></span></li><li id="ca-talk" class="new"><span><a href="/w/index.php?title=File_talk:Binary_tree.svg&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion au sujet de cette page de contenu (page inexistante) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variantes</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul lang="fr" dir="ltr">
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/File:Binary_tree.svg">Lire</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=File:Binary_tree.svg&amp;action=edit" title="Modifier le wikicode [e]" accesskey="e">Modifier</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=File:Binary_tree.svg&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h">Afficher l’historique</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span></h3>
+						<div class="menu">
+							<ul lang="fr" dir="ltr">
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3 lang="fr" dir="ltr">
+							<label for="searchInput">Rechercher</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Rechercher dans Wikimedia Commons" title="Rechercher dans Wikimedia Commons [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Continuer" title="Accédez à une page du même nom si elle existe" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Accueil"  title="Visiter la page d’accueil"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 lang="fr" dir="ltr" id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Accueil" title="Accueil général [z]" accesskey="z">Accueil</a></li><li id="n-welcome"><a href="/wiki/Commons:Bienvenue">Bienvenue</a></li><li id="n-portal"><a href="/wiki/Commons:Portail_communautaire" title="À propos du projet, ce que vous pouvez faire, où trouver les informations">Communauté</a></li><li id="n-village-pump"><a href="/wiki/Commons:Bistro">Bistro</a></li><li id="n-help"><a href="/wiki/Special:MyLanguage/Help:Contents" title="Accès à l’aide">Aide</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-participate' aria-labelledby='p-participate-label'>
+			<h3 lang="fr" dir="ltr" id='p-participate-label'>Participer</h3>
+			<div class="body">
+								<ul>
+					<li id="n-uploadbtn"><a href="/wiki/Commons:T%C3%A9l%C3%A9verser">Importer un fichier</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-latestfiles"><a href="/wiki/Special:NewFiles">Nouveaux fichiers</a></li><li id="n-randomimage"><a href="/wiki/Special:Random/File" title="Load a random file [x]" accesskey="x">Un fichier au hasard</a></li><li id="n-contact"><a href="/wiki/Commons:Pour_nous_contacter">Contact</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-electronPdfService-sidebar-portlet-heading' aria-labelledby='p-electronPdfService-sidebar-portlet-heading-label'>
+			<h3 lang="fr" dir="ltr" id='p-electronPdfService-sidebar-portlet-heading-label'>Imprimer / exporter</h3>
+			<div class="body">
+								<ul>
+					<li id="electron-print_pdf"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=File%3ABinary+tree.svg&amp;action=show-download-screen">Télécharger en PDF</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 lang="fr" dir="ltr" id='p-tb-label'>Outils</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/File:Binary_tree.svg" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/File:Binary_tree.svg" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=File:Binary_tree.svg&amp;oldid=108399563" title="Adresse permanente de cette version de la page">Lien permanent</a></li><li id="t-info"><a href="/w/index.php?title=File:Binary_tree.svg&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=File%3ABinary_tree.svg&amp;id=108399563" title="Informations sur la manière de citer cette page">Citer cette page</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo" lang="fr" dir="ltr">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> La dernière modification de cette page a été faite le 30 octobre 2013 à 15:17.</li>
+								<li id="footer-info-copyright">Les textes sont disponibles sous <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr">licence Creative Commons Attribution-partage dans les mêmes conditions</a> ; 
+d’autres conditions peuvent s’appliquer.
+Voyez les <a href="https://wikimediafoundation.org/wiki/Conditions_d'utilisation">conditions d’utilisation</a> pour plus de détails.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Politique de confidentialité</a></li>
+								<li id="footer-places-about"><a href="/wiki/Commons:Bienvenue" title="Commons:Bienvenue">À propos de Wikimedia Commons</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Commons:Avertissements_g%C3%A9n%C3%A9raux" title="Commons:Avertissements généraux">Avertissements</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+								<li id="footer-places-mobileview"><a href="//commons.m.wikimedia.org/w/index.php?title=File:Binary_tree.svg&amp;uselang=fr&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.064","walltime":"0.105","ppvisitednodes":{"value":824,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":7783,"limit":2097152},"templateargumentsize":{"value":3510,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   84.641      1 -total"," 91.46%   77.416      1 Template:Information"," 31.38%   26.563      1 Template:DerivativeVersions"," 22.44%   18.996      1 Template:ISOdate"," 13.55%   11.465      1 Template:Autotranslate"," 11.40%    9.648      1 Template:F","  8.22%    6.956      1 Template:PD-self","  5.99%    5.067      1 Template:F/name","  5.21%    4.411      1 Template:Years_since","  4.91%    4.158      1 Template:En"]},"scribunto":{"limitreport-timeusage":{"value":"0.012","limit":"10.000"},"limitreport-memusage":{"value":896740,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20180206060551","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1272"});});</script>
+	</body>
+</html>
